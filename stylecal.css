@@ -1,0 +1,21 @@
+
+.navmar{
+   margin-bottom: 40px;
+}
+div.mymargin{
+    padding:35px;
+    padding-left: 80px;
+}
+div.rowpad{
+    border:0px;
+    padding:5px;
+    margin-right: auto;
+}
+.colpad{
+    margin: 4px;
+}
+div.footer{
+    margin-top: 150px;
+    padding: 10px;
+    color: white;
+}
